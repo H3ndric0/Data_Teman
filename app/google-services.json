@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "614308585053",
+    "project_id": "data-teman-407a0",
+    "storage_bucket": "data-teman-407a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614308585053:android:ed07e088ba47a90cc837b4",
+        "android_client_info": {
+          "package_name": "com.example.data_teman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614308585053-blkv1cijqqc2p5a5efc0al78fgl6t6gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.data_teman",
+            "certificate_hash": "f4a4d66a922607d04ab0c991d6fd0b6a37a3e52c"
+          }
+        },
+        {
+          "client_id": "614308585053-m6limlm2b826vpnd5lfvdp1k9ob5g2l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM419PkH0uD2KQaFVRbWMnN44egiqFnJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614308585053-m6limlm2b826vpnd5lfvdp1k9ob5g2l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
