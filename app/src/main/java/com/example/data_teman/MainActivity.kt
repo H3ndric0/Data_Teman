@@ -1,24 +1,15 @@
 package com.example.data_teman
 
-<<<<<<< HEAD
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
-import android.view.View
-
-class MainActivity : AppCompatActivity(){
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
 import android.content.Intent
+import android.media.MediaPlayer.OnCompletionListener
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.TextUtils
 import android.view.View
 import android.widget.Toast
 import com.example.data_teman.databinding.ActivityMainBinding
+import com.example.data_teman.databinding.ActivityLoginBinding
 import com.firebase.ui.auth.AuthUI
-import com.google.android.gms.auth.api.Auth
 import com.google.android.gms.tasks.OnCompleteListener
 import com.google.android.gms.tasks.Task
 import com.google.firebase.auth.FirebaseAuth
